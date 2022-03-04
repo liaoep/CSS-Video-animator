@@ -1,2 +1,2 @@
 # CSS-Video-animator
-just simpily use the < a > tag
+just simpily use the <a> tag
